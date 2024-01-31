@@ -1,4 +1,8 @@
 # Multizone Recovery Demo
+![image](https://github.com/yalezhang2021/MultiZoneRecovery-demo/assets/74490220/06c2d0d7-e0f4-4cfc-95eb-af69fd1b2c0a)
+![image](https://github.com/yalezhang2021/MultiZoneRecovery-demo/assets/74490220/9bab2681-97b5-4606-960a-dc11e52f86a4)
+![image](https://github.com/yalezhang2021/MultiZoneRecovery-demo/assets/74490220/8af6c587-f7f4-47a6-b475-223615996aa9)
+
 
 1. This simple system has 4 sections and 3 pallets running on it.![屏幕截图 2024-01-09 010906.png](https://github.com/yalezhang2021/MultiZoneRecovery-demo/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-09%20010906.png?raw=true)
 
